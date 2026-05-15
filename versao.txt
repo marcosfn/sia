@@ -1,4 +1,4 @@
 1.0.0
 15/05/2026
-1.88
+1.87
 Atualizacao automatica via GitHub.
